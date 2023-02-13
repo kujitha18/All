@@ -1,0 +1,3 @@
+name : iphone 
+version : 11
+ram : 4 gb
